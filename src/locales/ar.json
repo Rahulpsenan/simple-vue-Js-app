@@ -1,0 +1,8 @@
+{
+  "message": "hello i18n !!",
+  "school-header-name": "AR-Schools",
+  "instructor-header-name": "AR-Instructors",
+  "vehicle-header-name": "AR-Vehicles",
+  "training-name": "name_ar",
+  "booking-header-name" : "AR-Bookings"
+}
